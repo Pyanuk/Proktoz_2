@@ -1,0 +1,26 @@
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1_MarkupCompile.cache
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1_MarkupCompile.lref
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Ежедневник v.1.1.exe
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Ежедневник v.1.1.deps.json
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Ежедневник v.1.1.runtimeconfig.json
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Ежедневник v.1.1.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Ежедневник v.1.1.pdb
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.g.resources
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.AssemblyInfoInputs.cache
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.AssemblyInfo.cs
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\refint\Ежедневник v.1.1.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.pdb
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.genruntimeconfig.cache
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\ref\Ежедневник v.1.1.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.csproj.AssemblyReference.cache
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\App.baml
+C:\Users\rhali\source\repos\Ежедневник v.1.1\Ежедневник v.1.1\obj\Debug\net7.0-windows\Ежедневник v.1.1.csproj.CopyComplete

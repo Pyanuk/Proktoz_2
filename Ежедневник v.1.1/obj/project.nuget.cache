@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTym9MzlimDcvw6Awyv0acCUOVT1BGFgwoa5Jyxo2aGDEvyt8wOs7yGFyniO+gh1l3kJuSzp13szZO1C2siLhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rhali\\source\\repos\\Ежедневник v.1.1\\Ежедневник v.1.1\\Ежедневник v.1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhali\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\rhali\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\rhali\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
